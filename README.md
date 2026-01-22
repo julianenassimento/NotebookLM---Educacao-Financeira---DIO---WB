@@ -75,9 +75,6 @@ A curadoria priorizou:
 - Conteúdo atemporal
 - Relevância educacional
 
-Detalhamento disponível em:  
-`/referencias/fontes_utilizadas.md`
-
 ---
 
 ## Engenharia de Prompts
@@ -93,9 +90,6 @@ Foram testadas variações de prompts com diferentes níveis de complexidade, co
 - **Aplicação prática**
   - “Como os ensinamentos de Buffett podem ser aplicados por pequenos investidores?”
 
-Os prompts finais e reutilizáveis estão documentados em:  
-`/prompts/prompts_reutilizaveis.md`
-
 ---
 
 ## Resultados Gerados
@@ -106,11 +100,6 @@ A partir da interação com o NotebookLM, foram produzidos:
 - ✅ Glossário de termos financeiros essenciais
 - ✅ Insights práticos voltados a iniciantes
 - ✅ Conjunto de prompts reutilizáveis para revisões futuras
-
-Outputs disponíveis em:
-- `/outputs/resumos_estruturados.md`
-- `/outputs/glossario.md`
-- `/outputs/insights_praticos.md`
 
 ---
 
