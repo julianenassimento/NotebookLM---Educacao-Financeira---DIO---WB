@@ -45,36 +45,22 @@ As fontes foram escolhidas com base em:
 
 ## Perguntas Estratégicas (Prompts)
 
-### Prompt 1 — Conceito Fundamental
-
 ```text
 Explique o conceito de Value Investing para um iniciante.
 
-*Resultado:*  
-![Fontes](images/prompt1.png)
+Quais erros mais comuns investidores iniciantes cometem segundo Warren Buffett?
 
-![Fontes](images/prompt1.1.png)
+Resuma os principais princípios de investimento defendidos por Warren Buffett.
 
----
-
-### Prompt 2 — Erros Comuns de Investidores Iniciantes
-
-```text
-Quais erros mais comuns investidores iniciantes cometem segundo Warren Buffett?.
-
-*Resultado:*  
-![Fontes](images/prompt2.png)
-
-![Fontes](images/prompt2.2.png)
-
----
+```
 
 ## Mapa Mental
 
 ### Prompt da Síntese Estruturada
 
-```text
 Crie um mapa mental com os principais conceitos da filosofia de investimentos de Warren Buffett, organizando-os por categorias.
 
 *Resultado:*  
 ![Fontes](images/mapa_mental.png)
+
+---
